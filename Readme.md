@@ -8,4 +8,16 @@
 
 
 ### Voici un repository qui me plait:
+
 - [ShinraMeter](https://github.com/neowutran/ShinraMeter)
+
+
+### Les étapes pour créer un nouveau commit:
+
+- Après avoir initialiser git dans mon répertoire avec `git init`, créé un fichier readme.md `touche Readme.md`, modifié le fichier readme.md `vim readme.md`, je peux effectuer un premier commit:
+
+- `git add readme.md` : Je met le fichier readme.md dans l'index.
+
+- `git commit -m "Création et modification du fichier readme.md` : Je créer mon commit avec une description.
+
+- `git push` : Je push sur GitHub mes commits.
