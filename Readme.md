@@ -18,6 +18,6 @@
 
 - `git add readme.md` : Je met le fichier readme.md dans l'index.
 
-- `git commit -m "Création et modification du fichier readme.md` : Je créer mon commit avec une description.
+- `git commit -m "Création et modification du fichier readme.md"` : Je créer mon commit avec une description.
 
 - `git push` : Je push sur GitHub mes commits.
