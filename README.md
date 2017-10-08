@@ -1,4 +1,4 @@
-## [WildCodeSchool](https://wildcodeschool.fr/)
+# Requêtes Git / GitHub
 - **QUÊTE** - GitHub - *Requête Git*
 - *170910_Git/170805_GitHub_Quête*
 ----
@@ -23,3 +23,5 @@
     - Je mets le fichier README.md dans l'index : `git add readme.md`
     - Je créer mon commit avec une description : `git commit -m "Création et modification du fichier README.md"`
 - Je push sur GitHub mon premier commit : `git push origin master`
+
+> [WildCodeSchool](https://wildcodeschool.fr/)
